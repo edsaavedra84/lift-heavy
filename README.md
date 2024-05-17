@@ -1,4 +1,4 @@
-#Heavy lifint app!
+# Heavy lifting app!
 My intention with this project is to leanr React Native in order to create both a web page and phone apps
 
 As functional, I just want an app that is able to keep track of my progress lifting weights, there are plenty on playstores however the twist I want to make, is that I want to provide webhooks for certain events.
